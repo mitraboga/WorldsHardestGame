@@ -1,6 +1,7 @@
-# README
+  # README
 
-## Welcome to "World's Hardest Game Level 1" on Scratch! ![image](https://github.com/user-attachments/assets/7f19920a-64f1-41ca-8bbc-cb1a42a3358f)
+## Welcome to "World's Hardest Game Level 1" on Scratch! ![image](https://github.com/user-attachments/assets/30787912-ed79-4ea8-852a-964ede5634c3)
+
 
 
 Are you ready for a challenge? Dive into my Scratch project, an emulation of Level 1 from the iconic "World's Hardest Game" on Cool Math Games. Test your skills, patience, and reflexes as you navigate through this tricky level!
