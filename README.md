@@ -48,4 +48,4 @@ If you have any questions or need further assistance, feel free to reach out. Ha
 
 ---
 
-Created by [Mitra Boga]
+Created by _Mitra Boga_
